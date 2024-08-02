@@ -1,0 +1,27 @@
+Steps to run java program
+
+1) javac Classname.java    ---- Compile
+2)java Classname              ---- Execute
+
+
+
+Variables :- (Syntax) - datatype variable name(snake case / small case / we can use only underscore between two words) = value;    
+
+Example :- int a;  x                  // declaration
+                 float num = 10.9; // declare & initialize  
+
+Datatype :- 1) Primitive
+                  2) Non-Primitive
+
+1) Primitive :-
+    a) Fixed in Size
+    b) (Types) - shorts, int, long, byte, Boolean, float, double, char
+
+
+1) Non-Primitive :-
+    a) Not Fixed in Size
+    b) (Types) - String, Class, Object
+
+
+
+
